@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Студент" as Студент {
+ MS WORD
+Реферат Писать (Статья на HABR, За день до дедлайна)
+}
+hide circle
+@enduml
