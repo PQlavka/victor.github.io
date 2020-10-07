@@ -6,7 +6,7 @@
 
 Текст с постановкой задачи
 
-Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
+![ramus idef0](https://github.com/PQlavka/victor.github.io/blob/main/model.png)
 
 Ссылки на доп.материалы
 
