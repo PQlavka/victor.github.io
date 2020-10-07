@@ -8,9 +8,10 @@
 Открытие собственного проекта в веб-браузере, получение и сохранение модели в развернутом виде (можно в виде изображения или в формате html);
 ![ramus idef0](https://github.com/PQlavka/victor.github.io/blob/main/model.png)
 
-Создание диаграммы классов для индивидуального проекта, сохранение кода в отдельном [файле](https://github.com/PQlavka/victor.github.io/blob/main/diag1.txt) (с расширением .txt) и получившегося [изображения](https://github.com/PQlavka/victor.github.io/blob/main/diag1.png);
-
-Создание диаграммы прецедентов для индивидуального проекта, сохранение кода в отдельном [файле](https://github.com/PQlavka/victor.github.io/blob/main/diag2.txt) (с расширением .txt) и получившегося [изображения](https://github.com/PQlavka/victor.github.io/blob/main/diag%202.png);
+Создание диаграммы классов для индивидуального проекта, сохранение кода в отдельном [файле](https://github.com/PQlavka/victor.github.io/blob/main/diag1.txt) (с расширением .txt) и получившегося изображения;
+![изоб2](https://github.com/PQlavka/victor.github.io/blob/main/diag1.png);
+Создание диаграммы прецедентов для индивидуального проекта, сохранение кода в отдельном [файле](https://github.com/PQlavka/victor.github.io/blob/main/diag2.txt) (с расширением .txt) и получившегося изображения.
+![изоб2](https://github.com/PQlavka/victor.github.io/blob/main/diag%202.png);
 
 
 ## Лабораторная 2
