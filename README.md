@@ -1,31 +1,13 @@
 # victor.github.io
-# Отчет о лабораторных работах
-# студент группы [ИДБ-17-06](https://github.com/stankin/design-2018/wiki/list-idb-17-06) Остапюк В.А.
+# Cтудент группы [ИДБ-17-06](https://github.com/stankin/design-2018/wiki/list-idb-17-06) Остапюк В.А.
 
-## Лабораторная 1
-Проект: Студент пишет реферат за день до дедлайна с помощью MS WORD используя статьи на habr
+## Домашние задания по [семинару 1](https://github.com/stankin/design-part-1/wiki/sem1) и [семинару 2](https://github.com/stankin/design-part-1/wiki/sem2)
 
-Cоздание индивидуальной IDEF0-диаграммы, сохранение и загрузка её (c расширением .rsf) в личный репозиторий;  
+## Отчет о лабораторных работах [1](https://github.com/PQlavka/victor.github.io/tree/main/lab1), [2](https://github.com/PQlavka/victor.github.io/tree/main/lab2), [3](https://github.com/PQlavka/victor.github.io/tree/main/lab3).
 
-Открытие собственного проекта в веб-браузере, получение и сохранение модели в развернутом виде (можно в виде изображения или в формате html);  
+## Домашние задания по [семинарам 3-4](https://github.com/PQlavka/victor.github.io.wiki.git)
 
-![ramus idef0](https://github.com/PQlavka/victor.github.io/blob/main/model.png)  
+## [Отчет](/) о лабораторных работах 4, 5.
 
-Создание диаграммы классов для индивидуального проекта, сохранение кода в отдельном [файле](https://github.com/PQlavka/victor.github.io/blob/main/diag1.txt) (с расширением .txt) и получившегося изображения;  
+## Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam05-4) и [проверенный](https://github.com/stankin/design-part-1/wiki/exam08-3)
 
-![изобq](https://github.com/PQlavka/victor.github.io/blob/main/diag1.png)  
-
-Создание диаграммы прецедентов для индивидуального проекта, сохранение кода в отдельном [файле](https://github.com/PQlavka/victor.github.io/blob/main/diag2.txt) (с расширением .txt) и получившегося изображения.  
-
-![изоб2](https://github.com/PQlavka/victor.github.io/blob/main/diag%202.png)
-
-
-## Лабораторная 2
-
-## Лабораторная 3
-
-## Лабораторная 4
-
-## Лабораторная 5
-
-## Лабораторная 6
