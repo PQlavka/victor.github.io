@@ -5,7 +5,7 @@
 
 ## Отчет о лабораторных работах [1](https://github.com/PQlavka/victor.github.io/tree/main/lab1), [2](https://github.com/PQlavka/victor.github.io/tree/main/lab2), [3](https://github.com/PQlavka/victor.github.io/tree/main/lab3).
 
-## Домашние задания по [семинарам 3-4](https://github.com/PQlavka/victor.github.io.wiki.git)
+## Домашние задания по [семинарам 3-4](https://github.com/PQlavka/victor.github.io/wiki/Деловая-игра)
 
 ## [Отчет](/) о лабораторных работах 4, 5.
 
