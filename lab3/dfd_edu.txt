@@ -1,0 +1,12 @@
+@startuml
+actor "Студент" as owner
+boundary "Приложение" as app
+entity "Данные" as data
+actor "Преподаватель" as trainee
+owner -> app : Запрос
+app -> data : Темы рефератов
+data -> app : Ответ
+app -> trainee : Требования
+trainee -> app : Подтверждение
+app -> owner : Тема выбрана
+@enduml
