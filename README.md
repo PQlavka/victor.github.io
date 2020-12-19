@@ -7,7 +7,7 @@
 
 ## Домашние задания по [семинарам 3-4](https://github.com/PQlavka/victor.github.io/wiki/Деловая-игра)
 
-## [Отчет](/) о лабораторных работах 4, 5.
+## [Отчет](https://github.com/PQlavka/victor.github.io/wiki/lab4) о лабораторных работах 4, 5.
 
 ## Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam05-4) и [проверенный](https://github.com/stankin/design-part-1/wiki/exam08-3)
 
