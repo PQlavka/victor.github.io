@@ -29,7 +29,7 @@
 
 * A0 (диаграмма верхнего уровня)
 
-![A0](https://github.com/PQlavka/victor.github.io/tree/main/coure_project/A0.PNG)
+![A0](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A0.PNG)
 
 * A1 (декомпозиция процесса/процессов внутренней среды)
 
