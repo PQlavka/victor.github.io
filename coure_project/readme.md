@@ -50,3 +50,23 @@
 
 ![A4](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A4.PNG)
 
+### 3. Функциональное моделирование программных и информационных средств (DFD) [✋](https://github.com/stankin/design-part-2/wiki/LR-2)
+
+**Конфигурация технических средств:** сервер, который осуществляет хранение данных; ПК для работы с программным средством
+
+**Конфигурация программных средств:** многоуровневая
+
+**Допустимые виды хранилищ и их размещение:** База данных (кластерная, распределенная файловая система, др.)
+
+* Автоматизация процесса А41
+
+![A41](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A41.PNG)
+
+* Автоматизация процесса A42
+
+![A42](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A42.PNG)
+
+* Автоматизация процесса A43
+
+![A43](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A43.PNG)
+
