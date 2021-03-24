@@ -33,20 +33,20 @@
 
 * A1 (декомпозиция процесса/процессов внутренней среды)
 
-![A1]()
+![A1](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A1.PNG)
 
 
 * A2 (декомпозиция процесса/процессов внутренней среды)
 
-![A2]()
+![A2](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A2.PNG)
 
 
 * A3 (декомпозиция процесса/процессов внутренней среды)
 
-![A3]()
+![A3](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A3.PNG)
 
 
 * A4 (декомпозиция процесса/процессов внутренней среды)
 
-![A4]()
+![A4](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A4.PNG)
 
