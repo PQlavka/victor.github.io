@@ -25,11 +25,11 @@
 
 * A-0 (контекстная диаграмма)
 
-![A-0](https://github.com/PQlavka/victor.github.io/tree/main/coure_project/A-0.png?raw=true)
+![A-0](https://github.com/PQlavka/victor.github.io/tree/main/coure_project/A-0.PNG?raw=true)
 
 * A0 (диаграмма верхнего уровня)
 
-![A0](https://github.com/PQlavka/victor.github.io/tree/main/coure_project/A0.png?raw=true)
+![A0](https://github.com/PQlavka/victor.github.io/tree/main/coure_project/A0.PNG?raw=true)
 
 * A1 (декомпозиция процесса/процессов внутренней среды)
 
