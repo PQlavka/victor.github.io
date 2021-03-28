@@ -25,30 +25,30 @@
 
 * A-0 (контекстная диаграмма)
 
-![A-0](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A-0.PNG)
+![A-0](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A-0.png)
 
 * A0 (диаграмма верхнего уровня)
 
-![A0](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A0.PNG)
+![A0](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A0.png)
 
 * A1 (декомпозиция процесса/процессов внутренней среды)
 
-![A1](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A1.PNG)
+![A1](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A1.png)
 
 
 * A2 (декомпозиция процесса/процессов внутренней среды)
 
-![A2](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A2.PNG)
+![A2](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A2.png)
 
 
 * A3 (декомпозиция процесса/процессов внутренней среды)
 
-![A3](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A3.PNG)
+![A3](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A3.png)
 
 
 * A4 (декомпозиция процесса/процессов внутренней среды)
 
-![A4](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A4.PNG)
+![A4](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A4.png)
 
 ### 3. Функциональное моделирование программных и информационных средств (DFD) [✋](https://github.com/stankin/design-part-2/wiki/LR-2)
 
@@ -60,15 +60,15 @@
 
 * Автоматизация процесса А41
 
-![A41](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A41.PNG)
+![A41](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A41.png)
 
 * Автоматизация процесса A42
 
-![A42](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A42.PNG)
+![A42](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A42.png)
 
 * Автоматизация процесса A43
 
-![A43](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A43.PNG)
+![A43](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/A43.png)
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
