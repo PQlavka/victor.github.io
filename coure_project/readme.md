@@ -137,28 +137,31 @@
 
 ### 5. Описание структуры объекта [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате ERD (Class) [✋](https://github.com/stankin/design-part-2/wiki/LR-5)
 
-* **Описываемый объект:** БД заказы
+* **Описываемый объект:** Структура модуля
 
 * **Диаграмма UML Class:**
-![p5](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
+![p5](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/pqlavka/victor.github.io/master/coure_project/DiagramClass)
+
+* **Диаграмма ER Role:**
+![p5](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/pqlavka/victor.github.io/master/coure_project/DiagramRole)
 
 ### 6. Описание алгоритма [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Sequence) [✋](https://github.com/stankin/design-part-2/wiki/LR-6)
 
-* **Описываемые процессы и потоки данных:** A13 Обработка заказа
+* **Описываемые процессы и потоки данных:** Эксплуатация платформы
 
 * **Диаграмма UML Sequence:**
-![p6](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
+![p6](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/pqlavka/victor.github.io/master/coure_project/DiagramSeq)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
 
-* **Описываемый объект:** структура программных средств CRM-системы
+* **Описываемый объект:** структура программных средств
 
 * **Диаграмма UML Component:**
-![p7](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
+![p7](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/pqlavka/victor.github.io/master/coure_project/DiagramComp)
 
 ### 8. Демонстрация реализации (личная страница)
 
-Личная страница на [Github]()
+Личная страница на [Github](https://github.com/PQlavka/victor.github.io/tree/main/coure_project)
 
 ### 9. Подготовка к интерпретации построенных моделей
 
