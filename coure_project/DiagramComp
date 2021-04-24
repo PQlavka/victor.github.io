@@ -1,0 +1,24 @@
+@startuml
+skinparam component {
+BackgroundColor White
+ArrowColor Black
+BorderColor Black
+}
+
+skinparam interface {
+BackgroundColor White
+ArrowColor Black
+BorderColor Black
+}
+component [База данных] as DB
+component [Платформа] as FC
+component [IoT-платформа] as Server
+
+() "FTP" as L
+() "HTTP" as H
+
+FC - H
+H - DB
+DB - L
+L - Server
+@enduml
