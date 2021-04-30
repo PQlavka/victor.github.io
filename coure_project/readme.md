@@ -161,7 +161,7 @@
 
 ### 8. Демонстрация реализации (личная страница)
 
-Личная страница на [Github](https://github.com/PQlavka/victor.github.io/tree/main/coure_project)
+Личная страница на [Github](https://pqlavka.github.io/diag/)
 
 ### 9. Подготовка к интерпретации построенных моделей
 
