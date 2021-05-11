@@ -266,7 +266,7 @@
 
 **10.4 Сравнительный план-факт:**
 
-Исходя из расчетов п. 10.4 можно сформировать следующую таблицу: ![PF](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/PF.PNG?raw=true)
+Исходя из расчетов п. 10.4 можно сформировать следующую таблицу: ![PF](https://github.com/PQlavka/victor.github.io/blob/main/coure_project/PF1.PNG?raw=true)
 
 **ВЫВОДЫ**
 
