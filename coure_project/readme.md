@@ -150,7 +150,9 @@
 * **Описываемые процессы и потоки данных:** Эксплуатация платформы
 
 * **Диаграмма UML Sequence:**
-![p6](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/pqlavka/victor.github.io/master/coure_project/DiagramSeq)
+![p6.1](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/pqlavka/victor.github.io/master/coure_project/DiagramSeq)
+
+![p6.2](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/pqlavka/victor.github.io/master/coure_project/DiagramSeq2)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
 
